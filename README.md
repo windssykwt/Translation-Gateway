@@ -49,8 +49,8 @@ Custom Cloud/
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd "Custom Cloud"
+   git clone https://github.com/windssykwt/Translation-Gateway
+   cd "Translation-Gateway"
    ```
 
 2. **Create virtual environment:**
@@ -100,8 +100,8 @@ Custom Cloud/
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd "Custom Cloud"
+   git clone https://github.com/windssykwt/Translation-Gateway
+   cd "Translation-Gateway"
    ```
 
 2. **Install dependencies directly:**
@@ -401,4 +401,5 @@ For issues and questions:
 1. Check the troubleshooting section
 2. Review log files in `logs/` directory
 3. Verify configuration in .env file
+
 4. Test individual API endpoints
