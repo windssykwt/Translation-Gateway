@@ -391,9 +391,6 @@ This will provide:
 - Background monitoring status
 - Translation context tracking
 
-## License
-
-This project is part of the MORT (Modular Open Translation) system for game localization.
 
 ## Support
 
@@ -401,5 +398,5 @@ For issues and questions:
 1. Check the troubleshooting section
 2. Review log files in `logs/` directory
 3. Verify configuration in .env file
-
 4. Test individual API endpoints
+
